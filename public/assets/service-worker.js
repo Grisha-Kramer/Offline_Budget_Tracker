@@ -1,9 +1,9 @@
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "./icons",
-  "./index.js",
-  "./styles.css"
+  "/icons",
+  "/index.js",
+  "/styles.css"
 ];
 
 const STATIC_CACHE = "static-cache-v1";

@@ -1,0 +1,22 @@
+{
+  "short_name": "Budget",
+  "name": "Budget Tracker",
+  "description": "Budget app with offline functionality",
+  "icons": [
+    {
+      "src": "public/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "public/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff"
+}
