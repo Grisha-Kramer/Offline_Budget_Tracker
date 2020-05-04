@@ -1,25 +1,39 @@
-# Offline_Budget_Tracker
+# Offline Budget
 
-Deployed at https://offline-budget.herokuapp.com/
 
-# Description
+A budget tracker using MongoDB that tracks purchases.
 
-A progressive web app that can track budgets both online and offline.
+![](Budget_Tracker.gif)
 
-# Installation
 
-Start a terminal in the root directory:
+# Deployed
 
-```sh
-npm install
-```
+The app is deployed at:
 
-```sh
-npm start
-```
+httpshttps://grishakramerreactprofile.herokuapp.com/
+
 
 # User Story
 As a person concerned with budgeting
 I want to be able to track my budget whether I have access to Wifi or not
 So that my budget is up to date
+
+
+
+| Technologies used:                                                                        |
+| ----------------------------------------------------------------------------------------- |
+| MongoDB, Mongoose, mLab, Express, React, Node.js, JavaScript, HTML, CSS
+
+
+
+## License
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
