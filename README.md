@@ -10,7 +10,7 @@ A budget tracker using MongoDB that tracks purchases.
 
 The app is deployed at:
 
-httpshttps://grishakramerreactprofile.herokuapp.com/
+https://offline-budget.herokuapp.com/
 
 
 # User Story
