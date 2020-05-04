@@ -3,6 +3,9 @@
 
 A budget tracker using MongoDB that tracks purchases.
 
+
+# Demo
+
 ![](Budget_Tracker.gif)
 
 
@@ -22,7 +25,7 @@ So that my budget is up to date
 
 | Technologies used:                                                                        |
 | ----------------------------------------------------------------------------------------- |
-| MongoDB, Mongoose, mLab, Express, React, Node.js, JavaScript, HTML, CSS
+| MongoDB, Mongoose, Express, React, Node.js, JavaScript, HTML, Bootstrap, CSS
 
 
 
